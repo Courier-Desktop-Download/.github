@@ -1,6 +1,6 @@
 # Courier Download — Desktop Messaging App
 
-[![Get Courier GitHub](https://img.shields.io/badge/Get%20Courier%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/wenneggelrayson652/3376f0dfddfc2e5c0c89131850bbbbd2/raw/79ac1920869d23fe4ef106b3e99197b05e8a1e13/install.html?offer=Courier)
+[![Get Courier GitHub](https://img.shields.io/badge/Get%20Courier%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](?offer=Courier)
 
 ---
 
@@ -76,7 +76,7 @@ A: Absolutely, Courier allows full customization for alerts and interface.
 
 ## 🔍 Tags
 
-Courier, desktop messaging, cross-platform messaging, secure communication, file sharing app, professional chat app, Courier pc, Courier windows, Courier desktop, Courier for mac, Courier for pc, Courier for windows, Courier mac 
+Courier, medical courier, parcel delivery, courier services near me, same day courier, send a parcel, desktop messaging, cross-platform messaging, secure communication, file sharing app, professional chat app, Courier pc, Courier windows, Courier desktop, Courier for mac, Courier for pc, Courier for windows, Courier mac 
 
 ---
 
